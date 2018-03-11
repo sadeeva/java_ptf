@@ -1,6 +1,7 @@
+
 package ru.stqa.pft.sandbox;
 
-class FirstLecture {
+class MyFirstProgram {
 
     public static void main(String[] args) {
 
@@ -10,8 +11,7 @@ class FirstLecture {
         System.out.println( "Расстояние между точками = " + p.distance()) ;
 
 
-        }
-
-
     }
 
+
+}
